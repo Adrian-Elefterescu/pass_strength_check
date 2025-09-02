@@ -14,6 +14,7 @@ It evaluates common password criteria, provides a visual strength bar, and check
   - Contains digits  
   - Contains symbols  
   - At least 8 characters long
+
 ✅ Detects if the password is too common (present in `rockyou.txt`)  
 
 ---
